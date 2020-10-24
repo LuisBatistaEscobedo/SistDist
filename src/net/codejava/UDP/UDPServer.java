@@ -1,4 +1,4 @@
-package net.codejava;
+package net.codejava.UDP;
 import java.net.DatagramSocket;
 import java.net.*;
 import java.io.*;
